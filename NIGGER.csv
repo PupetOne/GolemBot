@@ -1,0 +1,2 @@
+NIGGER,Male,Human,Adventurer
+"{'name': 'Shirt', 'health': 1, 'state': 'normal', 'type': 'shirt', 'material': 'Fabric', 'equipped': True, 'cover': ['torso', 'rshoulder', 'lshoulder', 'relbow', 'lelbow', 'rhand', 'lhand']}","{'name': 'Pants', 'health': 1, 'state': 'normal', 'type': 'pants', 'material': 'Fabric', 'equipped': True, 'cover': ['pelvis', 'rleg', 'lleg', 'rknee', 'lknee', 'rfoot', 'lfoot']}","{'name': 'Small axe', 'damage': 5, 'state': 'normal', 'type': 'axe', 'wield': 'oneHanded', 'material': 'Steel', 'equipped': True}"
